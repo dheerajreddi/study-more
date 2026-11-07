@@ -1,0 +1,20 @@
+{
+  "name": "study-planner",
+  "version": "1.0.0",
+  "description": "Full-stack Study Planner: React + Express + MongoDB (or JSON file fallback)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "npm install --prefix client && npm run build --prefix client",
+    "dev:server": "node server.js",
+    "dev:client": "npm run dev --prefix client"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0"
+  }
+}

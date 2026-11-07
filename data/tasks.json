@@ -1,0 +1,20 @@
+[
+  {
+    "id": "seed-1",
+    "title": "Revise Chapter 5 - Light and Optics",
+    "subject": "Physics",
+    "dueDate": "2026-11-12",
+    "priority": "High",
+    "done": false,
+    "createdAt": "2026-11-06T10:00:00.000Z"
+  },
+  {
+    "id": "seed-2",
+    "title": "Finish React assignment",
+    "subject": "Web Development",
+    "dueDate": "2026-11-09",
+    "priority": "Medium",
+    "done": false,
+    "createdAt": "2026-11-06T09:00:00.000Z"
+  }
+]
