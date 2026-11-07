@@ -1,12 +1,13 @@
+
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "services": {
     "study-planner": {
-      "root": "study-planner",
+      "root": ".",
       "framework": "express"
     },
     "client": {
-      "root": "study-planner/client",
+      "root": "client",
       "framework": "vite"
     }
   },
